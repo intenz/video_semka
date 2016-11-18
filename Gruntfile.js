@@ -1,10 +1,10 @@
 module.exports = function(grunt) {
 
-    var mobile = false;
+    var mobile = true;
 
     var tablet = false;
 
-    var adaptive = true;    
+    var adaptive = true;
 
 
     var ft_target = 'src/desktop/';
